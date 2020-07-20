@@ -30,4 +30,4 @@ jobs:
       name: upload artifact
       with:
         name: vrinda-resume.pdf
-        path: ./vrinda-resume.pdf
+        path: ./resume.pdf
